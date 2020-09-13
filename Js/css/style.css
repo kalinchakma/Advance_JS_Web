@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a,
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul,
+ol,
+a,
+li,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+table,
+tr,
+th,
+td,
+i,
+.navbar {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    padding: 20px 0px;
+    background: #dbe1f4;
+    text-align: center;
+    margin-bottom: 50px;
+}
+header h1
+{
+    text-decoration: underline;
+    color: #333;
+}
+.window
+{
+    padding: 20px;
+    background: #323144;
+}
+.window .main-window
+{
+    width: 60%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+}
